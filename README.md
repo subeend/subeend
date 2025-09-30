@@ -7,61 +7,53 @@
   <a href="https://velog.io/@tnqls0518">
     <img src="https://img.shields.io/badge/tnqls0518.log-3DDC84?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
+  <a href="https://velog.io/@tnqls0518">
+    <img src="https://img.shields.io/badge/tnqls0518.log-3DDC84?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
 </div>
 
----
-<div align="center">
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none; padding: 0 20px;">
-      <strong>📊 SuBeen's GitHub Stats</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=subeend&show_icons=true&theme=radical&count_private=true" height="180"/>
-    </td>
-    <td align="center" style="border: none; padding: 0 20px;">
-      <strong>📌 Most Used Languages</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subeend&layout=compact&theme=radical" height="180"/>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 ---
 
 <details>
+<summary>Activity</summary>
+<div markdown="1">
   
-  <summary>📌 Activity</summary>
+|기간|활동|기수|
+|:-:|:-|:-|
+|<sub>2025.03 ~ 2025.11</sub> | 🎓 경기대학교 K-디지털 부트캠프 양성과정 | 4기 |
+|<sub>2023.06 ~ 2023.08</sub> | 🧠 LG Aimers | 5기 |
 
-| 기간 | 활동 내용 | 비고 |
-|------|-----------|------|
-| 2025.03 ~ 진행중 | 🎓 경기대학교 K-디지털 부트캠프 AI 서비스 개발자 양성과정 | 교육생 |
-| 2023.06 ~ 2023.08 | 🧠 LG Aimers 5기 | 수료 |
-| 2023.03 ~ 2025.08 | 🎓 경기대학교 컴퓨터공학과 | 재학중|
+</div>
+</details>
 
+<details>
+<summary>Projects</summary>
+<div markdown="1">
+
+|기간|프로젝트|소개|바로가기|
+|:-:|:-|:-|:-:|
+|<sub>2024.10</sub> | **🚲 Seoul Public Bicycle Service** | 서울 공공 자전거 서비스 | [🔗](https://github.com/OpenswTeamProject) |
+|<sub>2025.03</sub> | **👴 Learning with** | 배우다 | [🌐](https://www.learningwith.co.kr/) &nbsp; [🔗](https://github.com/KGU-HouseOfChoi) |
+|<sub>2025.07</sub> | **💲 Mirae-meme-project** | 밈코인 추천 서비스 | [🔗](https://github.com/Mirae-meme-project) |
+|<sub>2025.08</sub> | **⚙️ Defect Detection** | 난반사 소재의 결함 탐지 | [🔗](https://github.com/ZEZEONE-VODA)| 
+
+</div>
 </details>
 
 ---
 
-### ✍️ Once I've Used
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/XCode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-</p>
-
----
-
-
-### 📚 Currently Studying
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -70,5 +62,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </p>
+
+
 
 
