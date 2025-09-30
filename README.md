@@ -7,9 +7,9 @@
   <a href="https://velog.io/@tnqls0518">
     <img src="https://img.shields.io/badge/tnqls0518.log-3DDC84?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
-  <a href="https://velog.io/@tnqls0518">
-    <img src="https://img.shields.io/badge/tnqls0518.log-3DDC84?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
+  <a href="mailto:happysong98@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 
